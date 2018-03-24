@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>简单示例1(cellsize相同)</string>
+		<key>className</key>
+		<string>SimpleCollectViewController</string>
+		<key>parameters</key>
+		<dict>
+			<key>ID</key>
+			<string>1234</string>
+			<key>type</key>
+			<string>A</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>简单示例2(cellsize不同)</string>
+		<key>className</key>
+		<string>Simple2CollectViewController</string>
+		<key>parameters</key>
+		<dict>
+			<key>ID</key>
+			<string>4567</string>
+			<key>type</key>
+			<string>B</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>简单示例2</string>
+		<key>className</key>
+		<string>SimpleCollectViewController</string>
+		<key>parameters</key>
+		<dict>
+			<key>ID</key>
+			<string>7890</string>
+			<key>type</key>
+			<string>C</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>简单示例3</string>
+		<key>className</key>
+		<string>SimpleCollectViewController</string>
+		<key>parameters</key>
+		<dict>
+			<key>ID</key>
+			<string>111213</string>
+			<key>type</key>
+			<string>D</string>
+		</dict>
+	</dict>
+</array>
+</plist>
